@@ -1,0 +1,13 @@
+there are different methods to create an environment.
+
+1>  we write a command python -m venv file_name
+    Then to activate the environment we use the command:
+        ->filename\Scripts\activate
+        ->filename\Scripts\deactivate
+
+2>  pip install virtualenv   
+    virtualenv -p python3 filename
+    virtual_env\Scripts\activate
+    deactivate
+
+3>  conda create -p venv1 python==3.10 -y

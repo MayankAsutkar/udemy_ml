@@ -1,0 +1,26 @@
+instead of installing diffrent files we can sue a single file suppose txt file to install all the libraries and packages.
+-> then write the name of the packages you wanna install.
+
+we can create an environment seperately in the folder.
+write the folowing code to create environment:
+    conda create -p venv python==3.10
+
+now to activate the environment we use the following command:
+    conda activate venv/
+
+To deactivate:
+    conda deactivate
+
+now you can create the requirements file in the venv folder
+inside that mention the package u wanna install
+
+now run the following code: 
+    pip install -r requirements.txt
+
+now you can crete different files in the folder of different types :
+    -> for jupyter you create the file with extension .ipynb
+    -> for python use .py
+
+to run a py file in cmd we use command : 
+    -> python filename.py
+

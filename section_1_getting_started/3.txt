@@ -1,0 +1,4 @@
+to open the vs code in apsecific folder we can sue following command:
+-> open the specific folder and then copy path
+-> paste the path in cmd and run it
+-> and then writh the command -> "code ."
