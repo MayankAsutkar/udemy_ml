@@ -1,4 +1,8 @@
-scikit-learn
-pandas
 ipykernel
-
+numpy
+pandas
+matplotlib
+seaborn
+requests
+bs4
+flask
