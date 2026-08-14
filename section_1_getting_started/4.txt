@@ -1,4 +1,4 @@
-instead of installing diffrent files we can sue a single file suppose txt file to install all the libraries and packages.
+instead of installing diffrent files we can use a single file suppose txt file to install all the libraries and packages.
 -> then write the name of the packages you wanna install.
 
 we can create an environment seperately in the folder.
